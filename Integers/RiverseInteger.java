@@ -31,5 +31,4 @@ public class RiverseInteger {
 		System.out.println(reverse(123));
 
 	}
-
 }
