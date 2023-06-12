@@ -1,8 +1,6 @@
 /** Question
-Write a program that outputs the String representation of numbers from 1 to n
-But for multiples of three it should print "Fizz" instead of the number and for 
-multiples of five print "Buzz". For numbers which are multiples  of both three and 
-five print "FizzBuzz".
+Write a program that outputs the String representation of numbers from 1 to n But for multiples of three it should print "Fizz" instead of the number and for 
+multiples of five print "Buzz". For numbers which are multiples  of both three and five print "FizzBuzz".
 **/
 
 package Integers;
