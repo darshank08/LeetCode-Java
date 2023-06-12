@@ -1,6 +1,5 @@
 /** Question
- * Given a non empty array of integers nums, every element appears twice except
- * for one. Find the single one.
+ * Given a non empty array of integers nums, every element appears twice except for one. Find the single one.
  * You must implement a solution with a linear runtime and use only constant extra space.
  * 
  */
